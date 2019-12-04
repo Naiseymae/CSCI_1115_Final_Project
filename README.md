@@ -7,7 +7,6 @@ This is the final project code for the Algorithms and Data Structures course. Th
 ## Code Example 1
 The following code shows how the mutate method randomly selects a random number of mutations, a random type of mutation, and random neucleotide base to mutate into.
 
-java```
 	public static String mutate(String sequence) {
 	/* Method will randomly mutate contents of a random number of indices in a string array, and return a randomly mutated string array.
 	 * Random mutations include point, deletion and insertion. */	
@@ -74,14 +73,13 @@ java```
 		// Return mutated string. 
 		return mutatedSeq;
 	}
- java```
+	
  ![](Code_Example_1.png)
  
 
 ## Code Example 2
 The code below is a portion of the graphicAA method inside the AminoAcid class which returns an HBox filled with amino acid circles that will be displayed in the main pane. This method uses a Map to match the codon in the array to an amino acid and create a new label with a circle object while also displaying the codon sequence underneath the circle. When the sequence for a STOP codon is found, a rectangle instead of an amino acid circle is created, and the method ends.
 
-java```
 	public HBox graphicAA() {
 	/* Adds colored circle and label for each amino acid in codonList. */
 		
@@ -136,7 +134,7 @@ java```
 					lblCodon.setContentDisplay(ContentDisplay.TOP);
 					this.getChildren().add(lblCodon);
 				}
- java```
+
  ![](Code_Example_1.png)
 
 
