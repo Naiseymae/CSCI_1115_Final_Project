@@ -135,8 +135,6 @@ The code below is a portion of the graphicAA method inside the AminoAcid class w
 					this.getChildren().add(lblCodon);
 				}
 
- ![](Code_Example_1.png)
-
 
 ## Motivation
 This new program will allow for a more hands on approach, giving the user the ability to insert, delete, and alter specific parts of their genetic code.  My previous program allowed random mutations decided by the program, not the user.  In this new program, I allow the user to take more of a role in deciding where the mutations will occur, thus cutting a pathway for the user to be more engaged in the process.  I aim to find better way to engage the user, and I believe that by granting the user a choice in which parts of the code to alter, they will feel more engaged and entertained, thus leading to a better learning experience.
