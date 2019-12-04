@@ -73,8 +73,7 @@ The following code shows how the mutate method randomly selects a random number 
 		// Return mutated string. 
 		return mutatedSeq;
 	}
-	
- ![](Code_Example_1.png)
+<img src="Code_Example_1.png" />
  
 
 ## Code Example 2
