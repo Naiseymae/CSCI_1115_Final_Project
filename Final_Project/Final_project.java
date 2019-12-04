@@ -1,4 +1,3 @@
-//package final_project;
 
 /* 
  * Author: Renee Linford
@@ -462,16 +461,5 @@ public class Final_project extends Application {
 		}
 		// Return mutated string. 
 		return mutatedSeq;
-	}
-	
-	
-	/** Increase method for increasing generation count. */
-	/*
-	public static int increase(int integer) {
-		integer = integer++;
-		//System.out.println("count = " + integer);
-		return integer;
-	} 
-	*/
-	
+	}	
 }
