@@ -1,4 +1,3 @@
-//package final_project;
 
 /* 
  * Author: Renee Linford
